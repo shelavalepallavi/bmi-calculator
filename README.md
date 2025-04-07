@@ -21,8 +21,8 @@ A simple and responsive Body Mass Index (BMI) calculator built using React. User
 - Real-time BMI calculation
 - Supports Imperial (ft/in/lbs) units
 - Clean and modern UI
-- Responsive design for mobile and desktop
-- Easy to customize and extend
+- Responsive design for mobile and desktop.
+- Easy to customize and extend.
 
 
 ## 🔧 Installation
