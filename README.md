@@ -38,9 +38,10 @@ cd bmi-calculator
 
 ```bash
 npm install
-```
-
-
+```bash
+npm run dev    # If using Vite
+# OR
+npm start      # If using Create React App
 ```
 
 4. **Open in Browser:**
