@@ -73,8 +73,8 @@ BMI = weight (kg) / [height (m)]²
 
 ## 📌 To-Do / Possible Improvements
 
-- Add BMI chart
-- Toggle between metric and imperial units
-- Store past calculations in local storage
-- Dark mode support
+- Add BMI chart.
+- Toggle between metric and imperial units.
+- Store past calculations in local storage.
+- Dark mode support.
 
