@@ -40,12 +40,7 @@ cd bmi-calculator
 npm install
 ```
 
-3. **Start the development server:**
 
-```bash
-npm run dev    # If using Vite
-# OR
-npm start      # If using Create React App
 ```
 
 4. **Open in Browser:**
